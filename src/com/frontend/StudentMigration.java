@@ -9,6 +9,9 @@ public class StudentMigration {
 		StudentMigrationController controller = new StudentMigrationController() ;
 
 		controller.doMigration();
+
+		System.out.println("Hello World ..!!");
+		
 		
 	}
 	
